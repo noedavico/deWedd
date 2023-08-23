@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\34691\Downloads\javascript-fs-pt-41-main\javascript-fs-pt-41-main\repaso-back\venv"
+VIRTUAL_ENV="C:\Users\34691\Desktop\Noelia\ProjectDeWedd\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

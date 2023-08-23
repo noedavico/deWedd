@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\34691\Downloads\javascript-fs-pt-41-main\javascript-fs-pt-41-main\repaso-back\venv
+set VIRTUAL_ENV=C:\Users\34691\Desktop\Noelia\ProjectDeWedd\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
