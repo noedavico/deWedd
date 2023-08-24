@@ -8,7 +8,7 @@ from flask_admin import Admin
 from admin import setup_admin
 from flask_admin.contrib.sqla import ModelView
 from flask import Flask
-from models.index import db, User, Cake, Beauty, Wedding_car, Transport, Animation, Outfit, Music, Decoration
+from models.index import db, User 
 from domain.user.route import user_route
 
 
