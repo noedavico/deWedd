@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# entonrno virtual 
+venv/
+
+# Ignorar archivos específicos
+instance/*.sqlite
+
+# Ignorar la carpeta instance
+instance/
